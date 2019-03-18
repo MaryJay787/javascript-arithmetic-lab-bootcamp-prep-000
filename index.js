@@ -32,6 +32,6 @@ function preserveDecimal(n) {
 
 function makeInt(n, a) {
   parseInt(0.2328, 10);
-  return n
+  return 0.2328 === 0;
 }
   
