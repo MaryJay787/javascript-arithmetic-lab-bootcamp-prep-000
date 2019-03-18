@@ -23,8 +23,8 @@ function dec(n) {
 }
 
 function makeInt(a) {
-  parseInt(a, 10);
-  return parseInt('0.2328');
+  parseInt('0.2328', 10);
+  return a;
 }
 
 function preserveDecimal(n) {
