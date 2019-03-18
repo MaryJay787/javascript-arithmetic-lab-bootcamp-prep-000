@@ -29,9 +29,4 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return n;
 }
-
-function makeInt(n, a) {
-  parseInt(0.2328, 10);
-  return 0;
-}
   
